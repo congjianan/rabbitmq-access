@@ -3,7 +3,8 @@ package com.littlersmall.rabbitmqaccess.example;
 import com.littlersmall.rabbitmqaccess.MQAccessBuilder;
 import com.littlersmall.rabbitmqaccess.MessageProcess;
 import com.littlersmall.rabbitmqaccess.ThreadPoolConsumer;
-import com.littlersmall.rabbitmqaccess.common.Constants;
+import com.littlersmall.rabbitmqaccess.common.testFolder.Constants;
+
 import lombok.Data;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

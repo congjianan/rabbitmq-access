@@ -15,9 +15,9 @@ import org.springframework.amqp.rabbit.support.MessagePropertiesConverter;
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
 import org.springframework.amqp.support.converter.MessageConverter;
 
-import com.littlersmall.rabbitmqaccess.common.Constants;
 import com.littlersmall.rabbitmqaccess.common.DetailRes;
 import com.littlersmall.rabbitmqaccess.common.MessageWithTime;
+import com.littlersmall.rabbitmqaccess.common.testFolder.Constants;
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.ConsumerCancelledException;

@@ -1,7 +1,8 @@
 package com.littlersmall.rabbitmqaccess;
 
-import com.littlersmall.rabbitmqaccess.common.Constants;
 import com.littlersmall.rabbitmqaccess.common.DetailRes;
+import com.littlersmall.rabbitmqaccess.common.testFolder.Constants;
+
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;

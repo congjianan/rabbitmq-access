@@ -1,4 +1,4 @@
-package com.littlersmall.rabbitmqaccess.common;
+package com.littlersmall.rabbitmqaccess.common.testFolder;
 
 /**
  * Created by littlersmall on 16/5/19.
